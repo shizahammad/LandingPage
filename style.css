@@ -1,0 +1,171 @@
+.top-div{
+    background-color: #1F2937;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    height: 500px;
+  }
+  .header{
+  display: flex;
+  justify-content: space-between;
+  }
+  .logo{
+    font-size: 24px;
+    color:#F9FAF8;
+    margin-left: 10%;
+  }
+  .header-links{
+    font-size: 18px;
+    display: flex;
+    margin-right: 10%;
+    margin-top: 40px;
+  }
+  .link2{
+    padding-left: 20px;
+  }
+  .link3{
+    padding-left: 20px;
+  }
+  
+  .main-text{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+  }
+  .sub-text{
+    font-size: 18px;
+    color:#E5E7EB;
+  }
+  .sign-up-button{
+    background-color: #3882F6;
+    color:#E5E7EB;
+    font-size: 16px;
+    border-radius: 6px;
+    border-color: #3882F6;
+    font-weight: bold;
+    width: 100px;
+    height: 35px;
+    
+  }
+  .front-two-columns{
+    display: flex;
+    justify-content: start;
+    margin-left: 200px;
+    gap: 100px; /* to create gap between div items*/
+  }
+  .front-column-one{
+    width:500px;
+    height:250px;
+  }
+  .front-column-two{
+    width:500px;
+    height:250px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+  }
+  .image-holder{
+    margin-top: 100px;
+  }
+  /* ***************second div************************ */
+  
+  .second-div{
+    display: flex;
+    justify-content: center;
+    height:400px
+  }
+  .image_holder{
+    height: 200px;
+    width: 200px;
+    border: 4px solid #3882F6;
+    border-radius: 15px;;
+  }
+  .image-holders-four{
+    display:flex;
+    gap:100px;
+    text-align: center;
+  }
+  .box{
+    height:250px;
+    width: 225px;
+    display: flex;
+    flex-direction: column;
+  
+  }
+  .second-div-title{
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+  font-weight: bolder;
+  }
+  
+  /* ***************third div************************ */
+  .third-div-content{
+    background-color: #E5E7EB;
+    height:400px;
+    display:flex;
+    justify-content: center;
+  
+  }
+  .quote1{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+  }
+  .div-two-content{
+    margin-top: 150px;
+    text-align: justify;
+    margin-left: 450px;
+    margin-right: 450px;
+  }
+  .name-tenstimonial{
+   float:right;
+   font-size: 20px;
+  }
+  /* *******************fourth div call to action*********************** */
+  .fourth-div{
+    height:300px;
+    display: flex;
+    justify-content: center;
+  }
+  .call-to-action{
+    margin-top: 100px;
+    background-color: #3882F6;
+    height: 150px;
+    width:1000px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+    gap: 100px;
+    color:white;
+  }
+  .sign-up-button-two{
+    margin-top: 50px;
+    height: 30px;
+    background-color: #3882F6;
+    border-color: white;
+    color:#F9FAF8;
+    font-size: 16px;
+    border-radius: 6px;
+    font-weight: bold;
+    width: 100px;
+    height: 35px;
+  }
+  .call-to-action-content{
+    margin-top:20px;
+    margin-left: 120px;
+    font-size: 20px;
+  }
+  .call-to-action-text{
+    margin-bottom:-15px;
+  }
+  footer{
+    background-color: #1F2937;
+    height:100px
+  }
+  .footer-text{
+  color:#E5E7EB;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 20px;
+  }
+  
